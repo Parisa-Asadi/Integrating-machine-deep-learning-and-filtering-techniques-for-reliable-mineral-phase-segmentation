@@ -2,7 +2,10 @@
 
 
 # 1. A 3D View of Mancos Shale (View 1)
-https://user-images.githubusercontent.com/70645375/126056366-a2d815ba-183f-4d9c-b259-fa46f6d1e1bd.mp4
+
+
+https://user-images.githubusercontent.com/70645375/126056440-1ad28cda-d017-45ac-a65a-c05762349485.mp4
+
 
 
 # 2. A 3D view of Mancos Shale (View 2)
