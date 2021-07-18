@@ -11,7 +11,8 @@ https://user-images.githubusercontent.com/70645375/126055798-9b93fb41-c2ca-459f-
 
 # 3. A 3D view of Phase Segmented Mancos Shale
 
-https://user-images.githubusercontent.com/70645375/126056390-c665d19d-0cfb-46da-bbe8-937f548f04ed.mp4
+https://user-images.githubusercontent.com/70645375/126056418-f2963b8b-3378-4951-a780-276a52cf4e84.mp4
+
 
 
 # 4. A 3D view of Marcellus Shale (View 1)
